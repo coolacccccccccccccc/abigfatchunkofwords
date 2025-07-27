@@ -1,4 +1,4 @@
-{
+	{
 	Lucide={
 		["accessibility"] = 10709751939,
 		["activity"] = 10709752035,
