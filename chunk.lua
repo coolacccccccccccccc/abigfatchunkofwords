@@ -1,4 +1,4 @@
-
+{
 	Lucide={
 		["accessibility"] = 10709751939,
 		["activity"] = 10709752035,
@@ -5322,4 +5322,4 @@
 		["baby_changing_station"] = 6035107930;
 		["fire_extinguisher"] = 6035121913;
 		["sparkle"] = 4483362748
-	}
+	}}
